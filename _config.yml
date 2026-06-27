@@ -4,8 +4,8 @@ subtitle: by VnCenturion
 email: contato@tajy.com.br
 description: Soluções em engenharia, construção civil, incorporação imobiliária,
   projetos técnicos e gestão de obras.
-baseurl: "/site-tajy" # the subpath of your site, e.g. /blog
-url: "https://tajyconstrucoes.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tajy.com.br" # the base hostname & protocol for your site
 author: Vinícius Centurión
 street_address: Rua Bananeiras, n.361, Sala 101, cxpst 330, manaíra.
 city: João Pessoa
