@@ -17,6 +17,84 @@ nav-menu: true
 		</header>
 		<p>Inspirado em uma das histórias mais simbólicas da região das Cataratas do Iguaçu, o Residencial Tarobá nasce como um empreendimento que une identidade, conforto e valorização.</p>
 		<p>Desenvolvido para oferecer conforto, funcionalidade e valorização patrimonial em uma das regiões mais convenientes da cidade. Com projeto arquitetônico contemporâneo, unidades bem distribuídas e acabamentos de qualidade, o empreendimento atende quem busca morar bem ou investir com segurança.</p>
+		<p>Confira as áreas privativas, posições e valores de referência das unidades do Residencial Tarobá.</p>
+		<div class="table-wrapper">
+			<table class="alt">
+				<thead>
+					<tr>
+						<th>Apartamento</th>
+						<th>Posição</th>
+						<th>Área privativa</th>
+						<th>Valor de venda (MAIO-2026)</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>101</td>
+						<td>Nascente Sul</td>
+						<td>61,80 m²</td>
+						<td>R$ 295.000,00</td>
+					</tr>
+					<tr>
+						<td>102</td>
+						<td>Poente Sul</td>
+						<td>55,70 m²</td>
+						<td>R$ 265.000,00</td>
+					</tr>
+					<tr>
+						<td>201</td>
+						<td>Nascente Sul</td>
+						<td>61,80 m²</td>
+						<td>R$ 272.500,00</td>
+					</tr>
+					<tr>
+						<td>202</td>
+						<td>Poente Sul</td>
+						<td>55,70 m²</td>
+						<td>R$ 245.000,00</td>
+					</tr>
+					<tr>
+						<td>203</td>
+						<td>Nascente Norte</td>
+						<td>62,30 m²</td>
+						<td>R$ 273.500,00</td>
+					</tr>
+					<tr>
+						<td>204</td>
+						<td>Poente Norte</td>
+						<td>55,70 m²</td>
+						<td>R$ 244.500,00</td>
+					</tr>
+					<tr>
+						<td>301</td>
+						<td>Nascente Sul</td>
+						<td>61,80 m²</td>
+						<td>R$ 265.500,00</td>
+					</tr>
+					<tr>
+						<td>302</td>
+						<td>Poente Sul</td>
+						<td>55,70 m²</td>
+						<td>R$ 238.500,00</td>
+					</tr>
+					<tr>
+						<td>303</td>
+						<td>Nascente Norte</td>
+						<td>62,30 m²</td>
+						<td>R$ 268.000,00</td>
+					</tr>
+					<tr>
+						<td>304</td>
+						<td>Poente Norte</td>
+						<td>55,70 m²</td>
+						<td>R$ 238.000,00</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<p class="tajy-note">Valores referentes à tabela de maio/2026. As informações podem sofrer alterações sem aviso prévio.
+			Consulte a Tajy para confirmar disponibilidade, condições comerciais, memorial descritivo, especificações técnicas e documentação aplicável.
+		</p>
 	</div>
 </section>
 
